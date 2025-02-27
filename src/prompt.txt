@@ -1,0 +1,9 @@
+Please only provide a summary if the paper is mentioning or using evaluation benchmarks.
+
+If the paper is about evaluations, use the tag #evaluation at the beginning. This tag should be formatted in a way so Obsidian can read it properly.
+
+Then, also summarise all numbers, such as accuracy, in the PDF related to the evaluation benchmarks. Explain the benchmark and how it works in detail afterward. 
+
+If the paper is not related to evaluation benchmarks, just write "not about evaluations". Thank you.
+
+The material you are seeing is all open-source research.
